@@ -1,6 +1,6 @@
 /*Question : To check wether a person is eledgible to vote or not
         Input : User input age
-        Output : Eledgible or Not Eledgible */
+        Output : Eledgible or Not Eledgible to vote */
 #include <stdio.h>
 int main()
 {
